@@ -1,0 +1,6 @@
+[submodule "cocos2d-html5"]
+	path = cocos2d-html5
+	url = git://github.com/cocos2d/cocos2d-html5
+[submodule "Scripts/typings/cocos2d"]
+	path = Scripts/typings/cocos2d
+	url = git://github.com/Arlorean/cocos2d/
